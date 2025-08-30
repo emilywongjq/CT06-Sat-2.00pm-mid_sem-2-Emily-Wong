@@ -8,6 +8,6 @@ function draw() {
     fill(0);
     ellipse(150,200,75,75);
     fill(0);
-    triangle(200,200,250,150,300,200);
+    triangle(200,100,250,150,300,100);
 }
 
