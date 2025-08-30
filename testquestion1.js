@@ -5,6 +5,6 @@ function setup() {
     strokeWeight(10);
 }
 function draw() {
-    ellipse(200,200,)
+    ellipse(200,200,50,50);
 }
 
