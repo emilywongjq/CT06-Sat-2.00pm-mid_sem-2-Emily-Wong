@@ -5,7 +5,7 @@ function setup() {
 function draw() {
     for(let i = 1; i < 11; i++){
         fill(i* 25);
-        circle(15 + i *50, 15 + i *50, 50);
+        circle(50 + i *50, 50 + i *50, 50);
     }
 }
 
