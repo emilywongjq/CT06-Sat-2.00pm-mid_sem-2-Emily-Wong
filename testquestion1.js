@@ -9,6 +9,6 @@ function draw() {
     ellipse(150,200,100,100);
     fill(0);
     triangle(250,250,300,150,350,250);
-    rect()
+    rect(400,20)
 }
 
