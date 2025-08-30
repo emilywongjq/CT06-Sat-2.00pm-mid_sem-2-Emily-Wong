@@ -3,6 +3,8 @@ function setup() {
     background(220);
 }
 function draw() {
-    
+    for(let i = 1; i < 11; i++){
+        
+    }
 }
 
