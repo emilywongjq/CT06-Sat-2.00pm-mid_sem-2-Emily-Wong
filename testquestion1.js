@@ -4,4 +4,7 @@ function setup() {
     stroke("red");
     strokeWeight(10);
 }
+function draw() {
+    
+}
 
