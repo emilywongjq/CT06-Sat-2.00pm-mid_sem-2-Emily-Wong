@@ -6,7 +6,7 @@ function setup() {
 }
 function draw() {
     fill(0);
-    ellipse(150,200,75,75);
+    ellipse(150,200,100,100);
     fill(0);
     triangle(200,250,250,150,300,250);
 }
