@@ -1,5 +1,5 @@
 function setup() {
     createCanvas(600,600);//creates a canvas of the size given
-    background(rgb);
+    background(220);
 }
 
